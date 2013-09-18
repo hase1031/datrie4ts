@@ -1,0 +1,7 @@
+.idea
+*.map
+*.log
+lib/*.js
+test/*.js
+bower_components
+node_modules

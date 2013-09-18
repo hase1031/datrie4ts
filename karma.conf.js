@@ -16,7 +16,7 @@ module.exports = function(config) {
     files: [
       'bower_components/expect/expect.js',
       'bower_components/sinon/index.js',
-      'trie.js',
+      'lib/*js',
       'test/*js'
     ],
 
