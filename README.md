@@ -28,6 +28,12 @@ var e = datrie.exactMatchSearch('aa'); //return 1
 $ karma start
 ```
 
+## Install
+
+```
+$ npm install datrie4ts
+```
+
 ## Author
 Takayuki Hasegawa <takayuki.hasegawa0311@gmail.com>
 

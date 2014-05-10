@@ -1,0 +1,24 @@
+{
+  "name": "datrie4ts",
+  "version": "0.0.1",
+  "description": "Double Array Trie written in Typescript",
+  "main": "karma.conf.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hase1031/datrie4ts.git"
+  },
+  "keywords": [
+    "trie"
+  ],
+  "author": "hase1031",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hase1031/datrie4ts/issues"
+  }
+}
