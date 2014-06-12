@@ -158,7 +158,7 @@ module DATrie {
 
         traverse(n:number, k:number):number {
             var m = this.getBase(n) + k;
-            if (this.getCheck(m) == n) {
+            if (this.getCheck(m) === n) {
                 return m;
             } else {
                 return -1;
